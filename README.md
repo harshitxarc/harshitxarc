@@ -2,7 +2,7 @@
 <h3 align="center">Advanced Computer Technology Enthusiast!</h3>
 
 <div>
-    <img align="left" height="210vh" src="/media/skeleton_.gif">
+    <img align="left" height="210vh" src="/media/skeleton2.gif">
     <img align="left" height="210vh" src="/media/1_120_transparent.png">
 </div>
 
