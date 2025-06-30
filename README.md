@@ -1,4 +1,4 @@
-<h1 align="center">Heyy, It's Harshit</h1>
+<h1 align="center">Heyy, It's Hitarth!</h1>
 <h3 align="center">👾Engineer with a MERN-driven vision!</h3>
 
 <div>
